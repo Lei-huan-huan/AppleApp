@@ -1,0 +1,96 @@
+{
+  "source": "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoPlayback/VideoPlaybackHomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "视频播放",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "选择视频",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "从相册选择",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "从文件选择",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "FFmpeg 播放器",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "选择视频",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "从相册选择",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "从文件选择",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "选择视频",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "从相册选择",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "从文件选择",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 130
+        }
+      }
+    ]
+  },
+  "version": 1
+}

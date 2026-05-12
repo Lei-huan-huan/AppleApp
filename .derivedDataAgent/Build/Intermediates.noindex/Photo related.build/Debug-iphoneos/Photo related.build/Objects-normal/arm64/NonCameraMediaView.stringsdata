@@ -1,0 +1,56 @@
+{
+  "source": "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/MediaTools/NonCameraMediaView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "非相机照片视频",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "删除%@",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "取消全选",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "全选",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "完成",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "选择",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 60
+        }
+      }
+    ]
+  },
+  "version": 1
+}

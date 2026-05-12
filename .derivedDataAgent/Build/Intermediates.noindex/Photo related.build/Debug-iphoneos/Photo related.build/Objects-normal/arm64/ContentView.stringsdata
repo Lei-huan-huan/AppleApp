@@ -1,0 +1,24 @@
+{
+  "source": "/Users/leihuanhuan/ios/AppleApp/Photo related/App/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "照片",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "视频播放",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 24
+        }
+      }
+    ]
+  },
+  "version": 1
+}

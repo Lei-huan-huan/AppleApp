@@ -1,0 +1,37 @@
+{
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/App/ContentView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.dia",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.swiftdeps"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/App/Photo_relatedApp.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.dia",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.swiftdeps"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Models/MediaAsset.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.dia",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.swiftdeps"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Models/MediaFilter.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.dia",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.swiftdeps"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Models/PhotoTab.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.dia",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.swiftdeps"
+  }
+}

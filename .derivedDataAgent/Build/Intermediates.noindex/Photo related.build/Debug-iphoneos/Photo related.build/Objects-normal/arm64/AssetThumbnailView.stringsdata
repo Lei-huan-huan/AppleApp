@@ -1,0 +1,24 @@
+{
+  "source": "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/Photo/AssetThumbnailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "视频",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "图片",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 53
+        }
+      }
+    ]
+  },
+  "version": 1
+}

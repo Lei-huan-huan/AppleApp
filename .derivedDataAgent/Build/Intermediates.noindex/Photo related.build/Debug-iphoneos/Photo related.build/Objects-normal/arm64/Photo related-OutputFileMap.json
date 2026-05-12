@@ -1,0 +1,359 @@
+{
+  "" : {
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo related-primary.dia",
+    "emit-module-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo related-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo related-primary-emit-module.dia",
+    "pch" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo related-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo related-primary.swiftdeps"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/App/ContentView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/App/Photo_relatedApp.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/Photo_relatedApp~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Models/MediaAsset.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaAsset~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Models/MediaFilter.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaFilter~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Models/PhotoTab.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoTab~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/ViewModels/PhotoLibraryViewModel.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoLibraryViewModel.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoLibraryViewModel.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoLibraryViewModel.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoLibraryViewModel.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoLibraryViewModel.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoLibraryViewModel.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoLibraryViewModel.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoLibraryViewModel~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/FFmpeg/LearnFFmpegMetalPreviewView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegMetalPreviewView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegMetalPreviewView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegMetalPreviewView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegMetalPreviewView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegMetalPreviewView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegMetalPreviewView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegMetalPreviewView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegMetalPreviewView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/FFmpeg/LearnFFmpegPlayerContainerView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerContainerView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerContainerView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerContainerView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerContainerView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerContainerView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerContainerView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerContainerView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerContainerView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/FFmpeg/LearnFFmpegPlayerViewController.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerViewController.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerViewController.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerViewController.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerViewController.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerViewController.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerViewController.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerViewController.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/LearnFFmpegPlayerViewController~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/MediaTools/AudioTrackMergeView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AudioTrackMergeView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AudioTrackMergeView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AudioTrackMergeView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AudioTrackMergeView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AudioTrackMergeView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AudioTrackMergeView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AudioTrackMergeView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AudioTrackMergeView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/MediaTools/ImageToVideoContainerView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoContainerView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoContainerView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoContainerView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoContainerView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoContainerView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoContainerView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoContainerView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoContainerView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/MediaTools/ImageToVideoMetalViewController.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoMetalViewController.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoMetalViewController.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoMetalViewController.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoMetalViewController.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoMetalViewController.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoMetalViewController.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoMetalViewController.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ImageToVideoMetalViewController~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/MediaTools/NonCameraMediaView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/MediaTools/NonCameraMediaViewController.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaViewController.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaViewController.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaViewController.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaViewController.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaViewController.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaViewController.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaViewController.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/NonCameraMediaViewController~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/MediaTools/VideoDocumentPickerSupport.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoDocumentPickerSupport.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoDocumentPickerSupport.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoDocumentPickerSupport.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoDocumentPickerSupport.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoDocumentPickerSupport.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoDocumentPickerSupport.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoDocumentPickerSupport.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoDocumentPickerSupport~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/MediaTools/VideoSubtitleContainerView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleContainerView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleContainerView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleContainerView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleContainerView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleContainerView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleContainerView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleContainerView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleContainerView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/MediaTools/VideoSubtitleViewController.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleViewController.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleViewController.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleViewController.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleViewController.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleViewController.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleViewController.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleViewController.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoSubtitleViewController~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/Photo/AssetThumbnailView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AssetThumbnailView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AssetThumbnailView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AssetThumbnailView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AssetThumbnailView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AssetThumbnailView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AssetThumbnailView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AssetThumbnailView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/AssetThumbnailView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/Photo/MediaDetailView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaDetailView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaDetailView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaDetailView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaDetailView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaDetailView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaDetailView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaDetailView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MediaDetailView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/Photo/PermissionStateView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PermissionStateView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PermissionStateView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PermissionStateView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PermissionStateView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PermissionStateView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PermissionStateView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PermissionStateView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PermissionStateView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/Photo/PhotoToolsHomeView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoToolsHomeView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoToolsHomeView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoToolsHomeView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoToolsHomeView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoToolsHomeView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoToolsHomeView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoToolsHomeView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/PhotoToolsHomeView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/Photo/ToolCardView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ToolCardView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ToolCardView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ToolCardView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ToolCardView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ToolCardView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ToolCardView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ToolCardView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/ToolCardView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoMetalMulti/FourVideoMetalContainerView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalContainerView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalContainerView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalContainerView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalContainerView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalContainerView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalContainerView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalContainerView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalContainerView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoMetalMulti/FourVideoMetalView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoMetalView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoMetalMulti/FourVideoViewController.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoViewController.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoViewController.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoViewController.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoViewController.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoViewController.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoViewController.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoViewController.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/FourVideoViewController~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoMetalMulti/SingleVideoMetalContainerView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SingleVideoMetalContainerView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SingleVideoMetalContainerView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SingleVideoMetalContainerView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SingleVideoMetalContainerView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SingleVideoMetalContainerView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SingleVideoMetalContainerView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SingleVideoMetalContainerView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SingleVideoMetalContainerView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoMetalMulti/SixVideoMetalContainerView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalContainerView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalContainerView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalContainerView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalContainerView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalContainerView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalContainerView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalContainerView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalContainerView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoMetalMulti/SixVideoMetalView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoMetalView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoMetalMulti/SixVideoViewController.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoViewController.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoViewController.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoViewController.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoViewController.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoViewController.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoViewController.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoViewController.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/SixVideoViewController~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoPlayback/MetalVideoView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalVideoView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalVideoView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalVideoView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalVideoView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalVideoView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalVideoView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalVideoView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalVideoView~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoPlayback/MetalViewAppearance.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalViewAppearance.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalViewAppearance.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalViewAppearance.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalViewAppearance.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalViewAppearance.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalViewAppearance.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalViewAppearance.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/MetalViewAppearance~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoPlayback/VideoMetalViewController.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoMetalViewController.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoMetalViewController.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoMetalViewController.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoMetalViewController.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoMetalViewController.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoMetalViewController.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoMetalViewController.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoMetalViewController~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoPlayback/VideoPlaybackActions.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackActions.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackActions.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackActions.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackActions.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackActions.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackActions.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackActions.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackActions~partial.swiftmodule"
+  },
+  "/Users/leihuanhuan/ios/AppleApp/Photo related/Views/VideoPlayback/VideoPlaybackHomeView.swift" : {
+    "const-values" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackHomeView.swiftconstvalues",
+    "dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackHomeView.d",
+    "diagnostics" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackHomeView.dia",
+    "index-unit-output-path" : "/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackHomeView.o",
+    "llvm-bc" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackHomeView.bc",
+    "object" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackHomeView.o",
+    "swift-dependencies" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackHomeView.swiftdeps",
+    "swiftmodule" : "/Users/leihuanhuan/ios/AppleApp/.derivedDataAgent/Build/Intermediates.noindex/Photo related.build/Debug-iphoneos/Photo related.build/Objects-normal/arm64/VideoPlaybackHomeView~partial.swiftmodule"
+  }
+}

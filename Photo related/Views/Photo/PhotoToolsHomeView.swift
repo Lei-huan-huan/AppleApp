@@ -11,6 +11,7 @@ struct PhotoToolsHomeView: View {
     @State private var showNonCameraMedia = false
     @State private var showAudioTrackMerge = false
     @State private var showImageToVideo = false
+    @State private var showMacGallery = false
 
     private let columns = [
         GridItem(.flexible(), spacing: 14),
@@ -27,6 +28,17 @@ struct PhotoToolsHomeView: View {
                         title: "非相机照片视频",
                         subtitle: "排除系统相机直出，仅看其它来源",
                         icon: "square.grid.3x3.square"
+                    )
+                }
+                .buttonStyle(.plain)
+
+                Button {
+                    showMacGallery = true
+                } label: {
+                    ToolCardView(
+                        title: "Mac 端图片",
+                        subtitle: "与 MvvmSample 相同：拉取 Mac 勾选图片并保存到相册",
+                        icon: "desktopcomputer"
                     )
                 }
                 .buttonStyle(.plain)
@@ -59,6 +71,10 @@ struct PhotoToolsHomeView: View {
         .navigationTitle("相册工具")
         .navigationDestination(isPresented: $showNonCameraMedia) {
             NonCameraMediaView()
+                .toolbar(.hidden, for: .tabBar)
+        }
+        .navigationDestination(isPresented: $showMacGallery) {
+            MacGalleryImagesView()
                 .toolbar(.hidden, for: .tabBar)
         }
         .navigationDestination(isPresented: $showAudioTrackMerge) {

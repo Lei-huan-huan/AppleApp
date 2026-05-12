@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>用于访问同一局域网内 Mac 上运行的图片列表服务（与 MvvmSample 相同接口）。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>将 Mac 端选中的图片保存到系统相册。</string>
+</dict>
+</plist>

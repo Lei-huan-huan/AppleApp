@@ -10,8 +10,7 @@ struct VideoPlaybackHomeView: View {
     @State private var showLearnFFmpeg = false
     @State private var showFourMetal = false
     @State private var showSixMetal = false
-    @State private var showVideoSubtitle = false
-    
+
     private let columns = [
         GridItem(.flexible(), spacing: 14),
         GridItem(.flexible(), spacing: 14)
@@ -60,17 +59,6 @@ struct VideoPlaybackHomeView: View {
                         title: "6路Metal",
                         subtitle: "同时渲染 6 路视频，支持相册和文件选取",
                         icon: "square.grid.3x2"
-                    )
-                }
-                .buttonStyle(.plain)
-
-                Button {
-                    showVideoSubtitle = true
-                } label: {
-                    ToolCardView(
-                        title: "视频字幕",
-                        subtitle: "语音识别生成字幕，可选语言，支持预览与导出",
-                        icon: "captions.bubble"
                     )
                 }
                 .buttonStyle(.plain)
@@ -133,10 +121,6 @@ struct VideoPlaybackHomeView: View {
                         }
                     }
                 }
-        }
-        .navigationDestination(isPresented: $showVideoSubtitle) {
-            VideoSubtitleContainerView()
-                .toolbar(.hidden, for: .tabBar)
         }
     }
 }

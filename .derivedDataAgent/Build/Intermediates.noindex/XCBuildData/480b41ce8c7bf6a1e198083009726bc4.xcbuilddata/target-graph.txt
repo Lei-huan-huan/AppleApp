@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Photo related' in project 'Photo related' (no dependencies)

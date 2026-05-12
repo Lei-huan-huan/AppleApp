@@ -2,8 +2,23 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+## Build outputs & DerivedData（不要提交编译中间产物到 GitHub）
+build/
+Build/
+DerivedData/
+.derivedData/
+.derivedData_*/
+.derivedDataAgent/
+*.xcresult
+*.xcarchive
+
 ## User settings
 xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.pbxuser
+!default.pbxuser
 
 ## Obj-C/Swift specific
 *.hmap
@@ -60,3 +75,6 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# macOS
+.DS_Store

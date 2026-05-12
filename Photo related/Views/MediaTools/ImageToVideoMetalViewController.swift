@@ -573,7 +573,7 @@ private final class MetalImageTransitionRenderer {
     init() throws {
         guard let d = MTLCreateSystemDefaultDevice(),
               let q = d.makeCommandQueue(),
-              let lib = d.makeDefaultLibrary() else {
+              let lib = MetalDefaultLibraryCache.library(for: d) else {
             throw NSError(domain: "Slideshow", code: -100, userInfo: [NSLocalizedDescriptionKey: "Metal 初始化失败"])
         }
         let desc = MTLRenderPipelineDescriptor()

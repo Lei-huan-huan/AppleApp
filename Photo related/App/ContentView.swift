@@ -23,6 +23,13 @@ struct ContentView: View {
             .tabItem {
                 Label("视频播放", systemImage: PhotoTab.categories.icon)
             }
+
+            NavigationStack {
+                CameraHomeView()
+            }
+            .tabItem {
+                Label("相机", systemImage: PhotoTab.camera.icon)
+            }
         }
     }
 }

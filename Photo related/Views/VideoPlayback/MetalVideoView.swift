@@ -2,17 +2,20 @@
 //  MetalVideoView.swift
 //  Photo related
 //
+//  单路视频：NV12 → CIImage → 与自定义相机相同的 `PreviewEffectPipeline`（Core Image + Metal 特效），再经 CIContext 渲染到 Metal 纹理。
+//
 
-import UIKit
-import MetalKit
 import AVFoundation
+import CoreImage
+import MetalKit
+import UIKit
 
-final class MetalVideoView: MTKView {
+final class MetalVideoView: MTKView, MTKViewDelegate {
     private var commandQueue: MTLCommandQueue!
-    private var pipelineState: MTLRenderPipelineState!
+    private var ciContext: CIContext!
+    private var effectPipeline: PreviewEffectPipeline!
     private var player: AVPlayer?
     private var videoOutput: AVPlayerItemVideoOutput?
-    private var textureCache: CVMetalTextureCache!
     private var filterType = 0
     private var loopObserver: NSObjectProtocol?
 
@@ -22,7 +25,7 @@ final class MetalVideoView: MTKView {
 
     override init(frame: CGRect, device: MTLDevice?) {
         super.init(frame: frame, device: device)
-        setupMetal()
+        setupRendering()
     }
 
     required init(coder: NSCoder) {
@@ -35,20 +38,19 @@ final class MetalVideoView: MTKView {
         }
     }
 
-    private func setupMetal() {
+    private func setupRendering() {
         device = MTLCreateSystemDefaultDevice()
         commandQueue = device?.makeCommandQueue()
         colorPixelFormat = .bgra8Unorm
         clearColor = MetalViewAppearance.clearColor(for: traitCollection)
-        CVMetalTextureCacheCreate(nil, nil, device!, nil, &textureCache)
-
-        let library = device?.makeDefaultLibrary()
-        let pipelineDesc = MTLRenderPipelineDescriptor()
-        pipelineDesc.vertexFunction = library?.makeFunction(name: "vertex_passthrough")
-        pipelineDesc.fragmentFunction = library?.makeFunction(name: "fragment_main")
-        pipelineDesc.colorAttachments[0].pixelFormat = .bgra8Unorm
-        pipelineState = try? device?.makeRenderPipelineState(descriptor: pipelineDesc)
+        framebufferOnly = false
+        isPaused = false
+        enableSetNeedsDisplay = false
         delegate = self
+
+        guard let dev = device else { return }
+        ciContext = CIContext(mtlDevice: dev, options: [.cacheIntermediates: false])
+        effectPipeline = PreviewEffectPipeline(ciContext: ciContext)
     }
 
     override func traitCollectionDidChange(_ previousTraitCollection: UITraitCollection?) {
@@ -85,69 +87,54 @@ final class MetalVideoView: MTKView {
         player?.play()
         isPaused = false
     }
-}
 
-extension MetalVideoView: MTKViewDelegate {
     func draw(in view: MTKView) {
         guard let drawable = currentDrawable,
-              let descriptor = currentRenderPassDescriptor,
+              let commandBuffer = commandQueue.makeCommandBuffer(),
               let output = videoOutput,
-              let item = player?.currentItem,
-              let pipelineState else { return }
+              let item = player?.currentItem
+        else { return }
 
         let time = item.currentTime()
         guard output.hasNewPixelBuffer(forItemTime: time),
               let pixelBuffer = output.copyPixelBuffer(forItemTime: time, itemTimeForDisplay: nil)
         else { return }
 
-        let videoW = CGFloat(CVPixelBufferGetWidth(pixelBuffer))
-        let videoH = CGFloat(CVPixelBufferGetHeight(pixelBuffer))
-        let viewW = drawableSize.width
-        let viewH = drawableSize.height
-        let videoRatio = videoW / videoH
-        let viewRatio = viewW / viewH
-
-        var scale = SIMD2<Float>(1, 1)
-        if videoRatio > viewRatio {
-            scale = SIMD2<Float>(1, Float(viewRatio / videoRatio))
-        } else {
-            scale = SIMD2<Float>(Float(videoRatio / viewRatio), 1)
+        if let pass = currentRenderPassDescriptor {
+            pass.colorAttachments[0].loadAction = .clear
+            pass.colorAttachments[0].storeAction = .store
+            pass.colorAttachments[0].clearColor = MTLClearColor(red: 0, green: 0, blue: 0, alpha: 1)
+            let clearEncoder = commandBuffer.makeRenderCommandEncoder(descriptor: pass)
+            clearEncoder?.endEncoding()
         }
 
-        var yTexRef: CVMetalTexture?
-        CVMetalTextureCacheCreateTextureFromImage(
-            nil, textureCache, pixelBuffer, nil, .r8Unorm,
-            CVPixelBufferGetWidthOfPlane(pixelBuffer, 0),
-            CVPixelBufferGetHeightOfPlane(pixelBuffer, 0), 0, &yTexRef
-        )
+        let base = CIImage(cvPixelBuffer: pixelBuffer)
+        let cfg = PreviewEffectConfiguration.singleVideo(filterIndex: filterType)
+        let filtered = effectPipeline.apply(to: base, configuration: cfg)
 
-        var uvTexRef: CVMetalTexture?
-        CVMetalTextureCacheCreateTextureFromImage(
-            nil, textureCache, pixelBuffer, nil, .rg8Unorm,
-            CVPixelBufferGetWidthOfPlane(pixelBuffer, 1),
-            CVPixelBufferGetHeightOfPlane(pixelBuffer, 1), 1, &uvTexRef
-        )
+        let srcRect = filtered.extent
+        guard srcRect.width > 1, srcRect.height > 1,
+              srcRect.width.isFinite, srcRect.height.isFinite
+        else {
+            commandBuffer.present(drawable)
+            commandBuffer.commit()
+            return
+        }
 
-        guard let yRef = yTexRef,
-              let yTex = CVMetalTextureGetTexture(yRef),
-              let uvRef = uvTexRef,
-              let uvTex = CVMetalTextureGetTexture(uvRef)
-        else { return }
+        let drawableW = max(1, CGFloat(drawable.texture.width))
+        let drawableH = max(1, CGFloat(drawable.texture.height))
+        let scale = max(drawableW / srcRect.width, drawableH / srcRect.height)
+        let scaledW = srcRect.width * scale
+        let scaledH = srcRect.height * scale
+        let ox = (drawableW - scaledW) * 0.5
+        let oy = (drawableH - scaledH) * 0.5
+        let transform = CGAffineTransform(translationX: -srcRect.minX, y: -srcRect.minY)
+            .scaledBy(x: scale, y: scale)
+            .translatedBy(x: ox, y: oy)
+        let outputImage = filtered.transformed(by: transform)
 
-        guard let commandBuffer = commandQueue.makeCommandBuffer(),
-              let encoder = commandBuffer.makeRenderCommandEncoder(descriptor: descriptor)
-        else { return }
-
-        encoder.setRenderPipelineState(pipelineState)
-        encoder.setFragmentTexture(yTex, index: 0)
-        encoder.setFragmentTexture(uvTex, index: 1)
-
-        var filter = filterType
-        encoder.setFragmentBytes(&filter, length: MemoryLayout<Int>.size, index: 0)
-        encoder.setVertexBytes(&scale, length: MemoryLayout<SIMD2<Float>>.size, index: 1)
-
-        encoder.drawPrimitives(type: .triangleStrip, vertexStart: 0, vertexCount: 4)
-        encoder.endEncoding()
+        let bounds = CGRect(origin: .zero, size: CGSize(width: drawableW, height: drawableH))
+        ciContext.render(outputImage, to: drawable.texture, commandBuffer: commandBuffer, bounds: bounds, colorSpace: CGColorSpaceCreateDeviceRGB())
         commandBuffer.present(drawable)
         commandBuffer.commit()
     }

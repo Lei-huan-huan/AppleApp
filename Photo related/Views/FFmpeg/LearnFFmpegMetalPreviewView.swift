@@ -32,7 +32,7 @@ final class LearnFFmpegMetalPreviewView: MTKView, MTKViewDelegate {
         clearColor = MTLClearColor(red: 0x0F / 255, green: 0x0E / 255, blue: 0x1A / 255, alpha: 1)
         CVMetalTextureCacheCreate(nil, nil, device!, nil, &textureCache)
 
-        let library = device?.makeDefaultLibrary()
+        let library = MetalDefaultLibraryCache.library(for: device!)
         let pipelineDesc = MTLRenderPipelineDescriptor()
         pipelineDesc.vertexFunction = library?.makeFunction(name: "vertex_passthrough")
         pipelineDesc.fragmentFunction = library?.makeFunction(name: "fragment_main")

@@ -9,6 +9,10 @@ import SwiftUI
 
 @main
 struct Photo_relatedApp: App {
+    init() {
+        MetalDefaultLibraryCache.warmUp()
+    }
+
     var body: some Scene {
         WindowGroup {
             ContentView()

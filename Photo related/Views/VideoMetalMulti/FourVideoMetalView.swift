@@ -38,7 +38,7 @@ final class FourVideoMetalView: MTKView {
         commandQueue = device?.makeCommandQueue()
         CVMetalTextureCacheCreate(nil, nil, device!, nil, &textureCache)
 
-        let library = device?.makeDefaultLibrary()
+        let library = MetalDefaultLibraryCache.library(for: device!)
         let desc = MTLRenderPipelineDescriptor()
         desc.vertexFunction = library?.makeFunction(name: "vertex_passthrough_A")
         desc.fragmentFunction = library?.makeFunction(name: "fragment_main_A")
